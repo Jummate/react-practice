@@ -1,0 +1,11 @@
+.select-wrapper{
+    width:100%;
+    padding: 10px;
+}
+.select{
+    border-radius:5px;
+    border: 1px lightgray ridge;
+    width:100%;
+    padding: 8px;
+    margin-top: 5px;
+}
